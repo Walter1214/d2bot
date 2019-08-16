@@ -1,0 +1,1401 @@
+[2019/06/23 23:25:17] <bot> Error in Eldritch (attack.js line 435): Attack.clear: 督軍山克 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Eldritch@eldritch.js:32, Attack.clear@attack.js:435
+[2019/06/24 23:27:20] <goodNight> Error in Corpsefire (pather.js line 907): Failed to go to act 1 using Warriv
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Corpsefire@corpsefire.js:9, useWaypoint@pather.js:907
+[2019/06/24 23:27:26] <goodNight> Error in ClearAnyArea (pather.js line 907): Failed to go to act 1 using Warriv
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, ClearAnyArea@clearanyarea.js:13, Pather.journeyTo@pather.js:1365, Pather.plotCourse@pather.js:1504, useWaypoint@pather.js:907
+[2019/06/24 23:38:07] <goodNight> Error in Corpsefire (corpsefire.js line 13): Failed to move to Corpsefire
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Corpsefire@corpsefire.js:13
+[2019/06/25 00:49:03] <bot> Error in ClearAnyArea (pather.js line 817): useUnit: Unit not found. ID: 5
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, ClearAnyArea@clearanyarea.js:13, Pather.journeyTo@pather.js:1476, Pather.moveToExit@pather.js:642, Pather.useUnit@pather.js:817
+[2019/06/27 01:58:26] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/27 02:18:42] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/27 02:26:43] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/27 02:31:05] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/28 00:58:58] <goodNight> Error in AutoBaal (autobaal.js line 261): Empty game.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, AutoBaal@autobaal.js:261
+[2019/06/28 01:10:08] <goodNight> Error in BaalAssistant (baalassistant.js line 87): BaalHelper: You were alone!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BaalAssistant@baalassistant.js:314, autoLeaderDetect@baalassistant.js:87
+[2019/06/28 01:17:04] <goodNight> Error in BaalAssistant (baalassistant.js line 87): BaalHelper: You were alone!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BaalAssistant@baalassistant.js:314, autoLeaderDetect@baalassistant.js:87
+[2019/06/28 01:24:35] <goodNight> Error in BaalAssistant (baalassistant.js line 87): BaalHelper: You were alone!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BaalAssistant@baalassistant.js:314, autoLeaderDetect@baalassistant.js:87
+[2019/06/28 01:32:00] <goodNight> Error in BaalAssistant (baalassistant.js line 87): BaalHelper: You were alone!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BaalAssistant@baalassistant.js:314, autoLeaderDetect@baalassistant.js:87
+[2019/06/28 01:34:27] <goodNight> Error in Nihlathak (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/28 01:41:45] <goodNight> Error in BaalAssistant (baalassistant.js line 87): BaalHelper: You were alone!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BaalAssistant@baalassistant.js:314, autoLeaderDetect@baalassistant.js:87
+[2019/06/28 02:08:32] <goodNight> Error in BaalAssistant (baalassistant.js line 87): BaalHelper: You were alone!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BaalAssistant@baalassistant.js:314, autoLeaderDetect@baalassistant.js:87
+[2019/06/28 03:53:21] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/28 06:07:14] <goodNight> Error in Rakanishu (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:07:14] <goodNight> Error in UndergroundPassage (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:07:14] <goodNight> Error in Coldcrow (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:07:14] <goodNight> Error in Tristram (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:07:14] <goodNight> Error in Pit (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:07:14] <goodNight> Error in Andariel (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:07:14] <goodNight> Error in Duriel (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:07:14] <goodNight> Error in Mephisto (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:20:30] <goodNight> Error in Rakanishu (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:20:30] <goodNight> Error in UndergroundPassage (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:20:30] <goodNight> Error in Coldcrow (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 06:20:30] <goodNight> Error in Tristram (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 07:36:31] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/28 08:11:43] <goodNight> Error in UndergroundPassage (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 08:11:43] <goodNight> Error in Coldcrow (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 08:47:30] <goodNight> Error in Duriel (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:49, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/28 08:47:32] <goodNight> Error in Mephisto (town.js line 2170): Town.goToTown: Failed use WP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Mephisto@mephisto.js:134, useWaypoint@pather.js:959, Pather.getWP@pather.js:1326, Pather.journeyTo@pather.js:1375, Town.goToTown@town.js:2170
+[2019/06/28 08:47:33] <goodNight> Error in Eldritch (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Eldritch@eldritch.js:11, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/28 21:49:59] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/28 22:28:31] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/28 23:29:42] <goodNight> Error in Rakanishu (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 23:29:42] <goodNight> Error in UndergroundPassage (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 23:29:42] <goodNight> Error in Coldcrow (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 23:29:42] <goodNight> Error in Tristram (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 23:29:42] <goodNight> Error in Pit (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 23:29:42] <goodNight> Error in Treehead (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 23:29:42] <goodNight> Error in Smith (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/28 23:54:21] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/28 23:56:47] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 00:24:41] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 00:25:28] <goodNight> Error in Radament (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 00:25:29] <goodNight> Error in Coldworm (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Coldworm@coldworm.js:11, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 00:25:30] <goodNight> Error in Duriel (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:49, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 00:25:33] <goodNight> Error in Mephisto (town.js line 2170): Town.goToTown: Failed use WP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Mephisto@mephisto.js:134, useWaypoint@pather.js:959, Pather.getWP@pather.js:1326, Pather.journeyTo@pather.js:1375, Town.goToTown@town.js:2170
+[2019/06/29 00:25:34] <goodNight> Error in Eldritch (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Eldritch@eldritch.js:11, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 01:00:29] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 01:03:20] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 01:21:48] <goodNight> Error in Rakanishu (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:21:48] <goodNight> Error in UndergroundPassage (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:21:48] <goodNight> Error in Coldcrow (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:21:48] <goodNight> Error in Tristram (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:21:48] <goodNight> Error in Pit (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:21:48] <goodNight> Error in Treehead (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:30:27] <goodNight> Error in Rakanishu (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:30:27] <goodNight> Error in UndergroundPassage (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:30:27] <goodNight> Error in Coldcrow (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 01:30:27] <goodNight> Error in Tristram (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 03:31:46] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 03:34:38] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 03:35:35] <goodNight> Error in Radament (attack.js line 298): Failed to kill 羅達門特
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:16, Attack.kill@attack.js:298
+[2019/06/29 03:58:54] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 03:59:33] <goodNight> Error in Radament (attack.js line 298): Failed to kill 羅達門特
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:16, Attack.kill@attack.js:298
+[2019/06/29 04:39:28] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 04:58:07] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 05:18:23] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 05:19:11] <goodNight> Error in Radament (attack.js line 298): Failed to kill 羅達門特
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:16, Attack.kill@attack.js:298
+[2019/06/29 05:35:46] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 05:55:22] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 06:07:59] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 06:10:49] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 06:28:26] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 06:45:42] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 07:04:01] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 07:21:30] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 07:41:23] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 07:54:11] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 07:54:43] <goodNight> Error in Radament (attack.js line 298): Failed to kill 羅達門特
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:16, Attack.kill@attack.js:298
+[2019/06/29 08:07:27] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 08:10:25] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 08:28:50] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 08:41:38] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 08:44:43] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 08:58:37] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 09:00:50] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 09:18:10] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 09:35:33] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 09:52:12] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 10:05:19] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 10:55:13] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 11:46:01] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 12:25:35] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 13:05:47] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 13:07:04] <goodNight> Error in Radament (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 13:07:05] <goodNight> Error in Coldworm (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Coldworm@coldworm.js:11, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 13:07:06] <goodNight> Error in Duriel (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:49, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 13:07:09] <goodNight> Error in Mephisto (town.js line 2170): Town.goToTown: Failed use WP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Mephisto@mephisto.js:134, useWaypoint@pather.js:959, Pather.getWP@pather.js:1326, Pather.journeyTo@pather.js:1375, Town.goToTown@town.js:2170
+[2019/06/29 13:07:10] <goodNight> Error in Eldritch (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Eldritch@eldritch.js:11, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/06/29 15:36:11] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 15:52:15] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 16:18:44] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 17:34:54] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 17:45:45] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 17:48:33] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 18:14:35] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 19:00:22] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 19:02:37] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 19:03:18] <goodNight> Error in Radament (attack.js line 298): Failed to kill 羅達門特
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:16, Attack.kill@attack.js:298
+[2019/06/29 19:44:42] <goodNight> Error in UndergroundPassage (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Coldcrow (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Tristram (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Pit (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Treehead (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Smith (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in BoneAsh (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Andariel (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Radament (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Coldworm (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Duriel (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 19:44:42] <goodNight> Error in Mephisto (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/06/29 20:46:30] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 20:49:37] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 21:09:59] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 21:12:30] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 21:13:13] <goodNight> Error in Radament (attack.js line 298): Failed to kill 羅達門特
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Radament@radament.js:16, Attack.kill@attack.js:298
+[2019/06/29 21:37:24] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/29 21:56:37] <goodNight> Error in Tristram (attack.js line 435): Attack.clear: 拉卡尼休 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Tristram@tristram.js:55, Attack.clear@attack.js:435
+[2019/06/29 21:59:46] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/30 00:27:25] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/30 00:52:13] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/06/30 03:45:22] <goodNight> Error in Andariel (town.js line 2203): Town.visitTown: Failed to go back from town
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Andariel@andariel.js:53, Pickit.pickItems@pickit.js:142, Pickit.pickItems@pickit.js:138, Town.visitTown@town.js:2203
+[2019/06/30 14:37:21] <goodNight> Error in ChestMania (attack.js line 998): Level Not loaded
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, ChestMania@chestmania.js:20, Town.doChores@town.js:80, Town.identify@town.js:535, Town.initNPC@town.js:184, Unit.prototype.openMenu@prototypes.js:110, Pather.moveToUnit@pather.js:530, Pather.moveTo@pather.js:232, Pather.walkTo@pather.js:419, Attack.validSpot@attack.js:998
+[2019/06/30 22:44:04] <goodNight> Error in Duriel (duriel.js line 59): Failed to move to Orifice
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:59
+[2019/07/01 22:31:15] <goodNight> Error in Duriel (town.js line 2154): Town.goToTown: Failed to take TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2154
+[2019/07/02 14:54:44] <goodNight> Error in Duriel (duriel.js line 59): Failed to move to Orifice
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:59
+[2019/07/02 23:20:38] <goodNight> NIP file doesn't exist: pickit/kolton.nip
+[2019/07/03 02:41:25] <goodNight> Error in Andariel (andariel.js line 41): Failed to move to Catacombs Level 4
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Andariel@andariel.js:41
+[2019/07/03 02:41:33] <goodNight> Error in Duriel (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/07/03 13:31:14] <goodNight> Error in Duriel (duriel.js line 59): Failed to move to Orifice
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:59
+[2019/07/04 04:57:45] <goodNight> Error in Andariel (pather.js line 1020): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Andariel@andariel.js:37, useWaypoint@pather.js:1020
+[2019/07/04 21:28:18] <goodNight> Error in Pindleskin (pindleskin.js line 33): Failed to use portal.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:33
+[2019/07/04 21:28:43] <goodNight> Error in Nihlathak (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/04 21:34:42] <goodNight> Error in Pindleskin (pindleskin.js line 33): Failed to use portal.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:33
+[2019/07/04 21:35:05] <goodNight> Error in Nihlathak (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/04 21:38:47] <goodNight> Error in Nihlathak (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/04 21:41:59] <goodNight> Error in Nihlathak (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/04 21:44:58] <goodNight> Error in Nihlathak (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/04 21:48:24] <goodNight> Error in Nihlathak (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:9, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/04 23:51:55] <goodNight> Error in Pindleskin (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:14, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/04 23:54:52] <goodNight> Error in Pindleskin (pather.js line 1330): getPresetUnits failed, couldn't access the level!
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:14, useWaypoint@pather.js:959, Pather.getWP@pather.js:1330
+[2019/07/05 02:19:21] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 02:26:13] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/05 02:42:03] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/05 02:42:20] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 02:48:19] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/05 02:48:39] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 03:41:02] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 05:10:52] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 05:19:02] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 06:09:43] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 06:21:19] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 06:29:29] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 06:37:21] <goodNight> Error in Duriel (pather.js line 817): useUnit: Unit not found. ID: 100
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:88, Pather.useUnit@pather.js:817
+[2019/07/05 06:39:01] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 06:54:38] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 08:08:57] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 09:45:11] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 10:07:19] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 10:14:05] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 10:29:18] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 11:01:35] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 11:46:26] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 11:54:20] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 13:05:25] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 13:34:05] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 14:02:33] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 14:31:41] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 15:08:22] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 16:56:46] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 17:40:06] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 17:55:22] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 19:14:26] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 19:18:23] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 19:32:21] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 20:20:19] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 20:28:32] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 21:07:09] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 21:34:59] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 21:42:16] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/05 22:56:43] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/06 00:51:23] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/06 01:08:08] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/06 02:18:14] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/08 08:32:52] <goodNight> Error in Duriel (duriel.js line 59): Failed to move to Orifice
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:59
+[2019/07/09 02:49:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 02:49:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 02:49:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 02:57:15] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 02:57:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 02:57:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:06:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:06:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:06:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:19:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:19:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:19:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:32:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:32:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:32:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:42:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:42:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:42:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:54:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:54:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 03:54:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:08:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:08:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:08:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:20:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:20:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:20:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:34:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:34:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:34:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:46:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:46:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:46:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:59:07] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:59:07] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 04:59:07] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:13:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:13:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:13:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:26:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:26:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:26:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:35:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:35:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:35:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:48:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:48:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 05:48:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:03:49] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:03:49] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:03:49] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:16:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:16:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:16:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:31:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:31:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:31:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:43:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:43:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:43:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:55:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:55:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:55:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:57:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:57:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 06:57:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:09:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:09:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:09:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:23:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:23:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:23:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:36:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:36:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:36:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:49:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:49:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 07:49:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:02:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:02:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:02:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:15:24] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:15:24] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:15:24] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:25:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:25:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:25:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:39:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:39:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:39:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:54:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:54:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 08:54:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:07:32] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:07:32] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:07:32] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:16:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:16:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:16:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:30:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:30:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:30:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:42:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:42:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:42:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:49:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:49:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 09:49:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:02:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:02:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:02:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:16:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:16:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:16:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:30:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:30:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:30:28] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:43:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:43:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:43:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:57:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:57:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 10:57:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:10:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:10:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:10:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:23:15] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:23:15] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:23:15] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:36:10] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:36:10] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:36:10] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:50:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:50:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 11:50:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:02:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:02:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:02:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:16:25] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:16:25] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:16:25] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:29:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:29:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:29:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:41:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:41:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:41:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:53:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:53:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 12:53:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:05:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:05:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:05:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:20:10] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:20:10] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:20:10] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:33:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:33:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:33:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:47:21] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:47:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 13:47:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:00:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:00:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:00:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:13:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:13:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:13:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:25:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:25:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:25:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:38:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:38:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:38:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:51:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:51:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 14:51:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:04:49] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:04:50] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:04:50] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:18:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:18:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:18:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:30:38] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:30:38] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:30:38] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:43:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:43:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:43:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:53:55] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:53:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 15:53:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:07:11] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:07:11] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:07:11] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:20:25] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:20:25] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:20:25] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:31:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:31:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:31:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:45:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:45:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:45:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:58:27] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:58:27] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 16:58:27] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:11:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:11:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:11:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:26:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:26:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:26:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:38:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:38:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:38:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:52:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:52:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 17:52:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:05:36] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:05:36] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:05:36] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:18:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:18:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:18:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:31:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:31:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:31:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:43:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:43:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:43:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:52:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:52:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 18:52:47] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:05:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:05:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:05:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:20:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:20:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:20:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:32:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:32:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:32:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:47:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:47:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 19:47:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:00:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:00:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:00:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:26:02] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:26:02] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:26:02] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:38:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:38:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:38:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:52:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:52:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 20:52:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:05:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:05:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:05:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:19:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:19:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:19:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:33:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:33:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:33:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:46:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:46:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:46:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:58:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:58:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 21:58:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 22:12:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 22:12:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 22:12:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 22:24:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 22:24:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/09 22:24:42] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:19:21] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:19:21] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:19:21] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:31:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:31:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:31:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:52:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:52:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 00:52:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:06:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:06:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:06:37] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:20:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:20:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:20:53] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:33:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:33:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:33:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:33:16] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 01:43:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:43:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:43:20] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:44:01] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 01:58:55] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:58:55] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:58:55] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 01:59:07] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 02:11:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:11:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:11:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:12:07] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 02:25:24] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:25:24] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:25:24] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:25:46] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 02:31:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:31:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:31:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:31:39] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 02:46:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:46:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:46:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 02:46:43] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 03:01:35] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:01:35] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:01:35] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:01:48] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 03:17:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:17:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:17:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:17:28] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 03:31:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:31:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:31:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:31:44] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 03:45:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:45:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:45:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 03:45:19] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 04:00:07] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:00:07] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:00:07] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:00:19] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 04:15:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:15:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:15:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:15:24] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 04:29:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:29:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:29:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:29:16] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 04:40:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:40:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:40:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:40:46] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 04:42:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:42:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:42:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:43:14] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 04:56:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:56:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:56:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 04:57:12] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 05:11:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:11:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:11:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:11:38] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 05:25:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:25:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:25:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:25:34] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 05:40:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:40:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:40:43] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:40:54] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 05:54:41] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:54:41] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:54:41] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 05:54:55] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 06:07:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:07:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:07:45] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:07:57] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 06:22:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:22:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:22:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:22:22] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 06:36:41] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:36:41] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:36:41] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:36:52] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 06:40:58] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:40:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:40:59] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:41:16] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 06:49:46] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:49:46] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:49:46] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 06:50:09] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 07:04:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:04:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:04:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:04:19] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 07:19:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:19:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:19:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:19:23] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 07:34:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:34:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:34:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:34:16] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 07:47:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:47:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:47:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 07:47:44] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 08:02:39] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:02:39] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:02:39] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:02:52] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 08:17:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:17:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:17:00] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:17:14] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 08:26:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:26:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:26:31] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:27:07] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 08:42:46] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:42:46] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:42:46] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:42:56] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 08:56:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:56:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:56:30] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 08:56:43] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 09:08:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:08:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:08:52] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:09:31] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 09:23:38] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:23:38] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:23:38] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:23:52] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 09:37:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:37:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:37:01] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:37:19] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 09:52:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:52:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:52:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 09:52:31] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 10:06:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:06:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:06:04] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:06:28] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 10:10:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:10:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:10:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:10:25] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 10:25:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:25:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:25:54] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:26:08] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 10:42:32] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:42:32] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:42:32] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:42:42] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 10:50:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:50:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:50:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 10:51:00] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 11:05:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:05:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:05:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:05:21] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 11:07:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:07:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:07:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:07:54] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 11:23:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:23:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:23:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:23:29] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 11:39:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:39:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:39:09] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:39:20] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 11:50:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:50:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:50:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 11:51:18] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 12:06:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:06:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:06:48] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:06:59] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 12:20:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:20:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:20:51] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:21:11] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 12:33:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:33:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:33:34] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:34:05] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 12:48:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:48:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:48:44] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:48:56] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 12:59:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:59:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 12:59:56] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:00:23] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 13:14:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:14:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:14:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:14:26] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 13:28:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:28:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:28:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:28:32] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 13:40:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:40:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:40:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:40:55] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 13:54:57] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:54:57] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:54:57] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 13:55:07] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 14:10:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:10:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:10:08] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:10:20] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 14:25:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:25:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:25:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:25:46] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 14:40:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:40:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:40:03] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:40:16] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 14:54:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:54:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:54:17] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 14:54:29] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 15:07:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:07:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:07:33] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:07:48] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 15:22:39] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:22:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:22:40] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:22:51] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 15:28:35] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:28:35] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:28:35] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:28:53] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 15:38:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:38:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:38:13] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:38:55] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 15:58:15] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:58:15] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:58:15] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 15:58:27] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 16:14:36] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:14:36] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:14:36] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:14:48] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 16:16:50] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:16:50] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:16:50] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:17:11] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 16:30:55] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:30:55] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:30:55] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:31:07] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 16:46:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:46:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:46:16] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:46:30] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 16:55:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:55:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:55:29] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 16:56:00] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 17:09:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:09:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:09:18] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:09:29] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 17:22:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:22:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:22:14] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:22:37] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 17:36:22] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:36:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:36:23] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 17:36:33] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 21:52:57] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 21:52:57] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 21:52:57] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 21:53:16] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 22:07:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 22:07:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 22:07:26] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 22:07:37] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/10 22:22:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 22:22:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 22:22:19] <goodNight> Unknown name: cnout File: kolton.nip Line: 327
+[2019/07/10 22:22:33] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 00:13:51] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 00:27:47] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 00:41:59] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 00:56:24] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 01:10:59] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 01:24:56] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 01:40:58] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 01:54:32] <goodNight> Error in BoneAsh (attack.js line 298): Failed to kill 骨灰
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, BoneAsh@boneash.js:16, Attack.kill@attack.js:298
+[2019/07/11 19:51:11] <goodNight> Error in Mephisto (pather.js line 1020): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Mephisto@mephisto.js:134, useWaypoint@pather.js:1020
+[2019/07/13 05:28:34] <goodNight> Error in ChestMania (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, ChestMania@chestmania.js:15, Pather.journeyTo@pather.js:1370, Town.goToTown@town.js:2150
+[2019/07/14 12:59:45] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 12:59:56] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 13:12:23] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 13:26:01] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 13:26:25] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 13:40:23] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 13:40:39] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 13:52:31] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 13:52:57] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 14:06:59] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 14:29:55] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 15:36:07] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 17:32:08] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 17:53:39] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 17:53:49] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 18:07:29] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 18:07:39] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 19:12:46] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 19:13:04] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 19:26:52] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 19:51:45] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 19:51:55] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 20:30:12] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 20:56:00] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 21:23:23] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/14 21:37:33] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 21:37:43] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/14 22:16:05] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/14 22:16:21] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 00:06:53] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 00:07:09] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 00:35:15] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 00:35:31] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 00:49:17] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 00:49:47] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 01:14:29] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 01:14:47] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 01:58:43] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/15 02:53:47] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 02:54:06] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 03:19:33] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/15 03:32:05] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 03:59:29] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/15 04:39:50] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 04:40:06] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 04:58:57] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 04:59:15] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 05:27:18] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 05:27:35] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 05:39:51] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 05:40:01] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 06:59:07] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 06:59:24] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 07:27:29] <goodNight> Error in Nihlathak (attack.js line 229): Attack.kill: Target not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:229
+[2019/07/15 07:36:45] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 07:37:59] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 08:15:39] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/15 08:15:56] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/15 08:28:32] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/17 06:57:23] <goodNight> Error in ChestMania (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, ChestMania@chestmania.js:15, Pather.journeyTo@pather.js:1370, Town.goToTown@town.js:2150
+[2019/07/19 23:29:01] <goodNight> Error in Eldritch (attack.js line 435): Attack.clear: 矯正者-怪異 not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Eldritch@eldritch.js:14, Attack.clear@attack.js:435
+[2019/07/20 00:00:00] <goodNight> Error in Diablo (attack.js line 998): Level Not loaded
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Diablo@diablo.js:469, @diablo.js:225, Pather.moveTo@pather.js:232, Pather.walkTo@pather.js:419, Attack.validSpot@attack.js:998
+[2019/07/20 00:00:00] <goodNight> Error in Pindleskin (pather.js line 1042): makePortal: No TP tomes.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2149, Pather.makePortal@pather.js:1042
+[2019/07/20 00:00:00] <goodNight> Error in Eldritch (pather.js line 1042): makePortal: No TP tomes.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2149, Pather.makePortal@pather.js:1042
+[2019/07/20 00:00:00] <goodNight> Error in Baal (pather.js line 1042): makePortal: No TP tomes.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2149, Pather.makePortal@pather.js:1042
+[2019/07/20 00:00:00] <goodNight> Error in ChestMania (pather.js line 1042): makePortal: No TP tomes.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2149, Pather.makePortal@pather.js:1042
+[2019/07/20 01:54:43] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/20 02:25:38] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/20 02:42:11] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/21 19:52:42] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/21 20:01:25] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/21 20:23:45] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/21 20:36:58] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/21 20:55:55] <goodNight> Error in Pindleskin (attack.js line 298): Failed to kill 尼拉塞克 (No valid attack skills)
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Pindleskin@pindleskin.js:64, Attack.kill@attack.js:298
+[2019/07/25 01:46:46] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/25 02:25:07] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/25 03:42:00] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/25 05:22:03] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/25 06:53:57] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 01:30:36] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 03:24:41] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 03:40:20] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 04:17:08] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 07:44:29] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 08:51:30] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 09:35:55] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 10:11:53] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 11:21:32] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/26 18:51:16] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 00:13:41] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 01:37:56] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 02:59:20] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 03:42:51] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/07/27 04:28:02] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 04:40:59] <goodNight> Error in Mephisto (mephisto.js line 138): Failed to move to Durance Level 3
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Mephisto@mephisto.js:138
+[2019/07/27 05:21:54] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 05:52:26] <goodNight> Error in Andariel (default.dbj line 65): too much recursion
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:36, Misc.openChestsInArea@misc.js:932, Pather.moveToUnit@pather.js:533, Pather.moveTo@pather.js:232, Pather.teleportTo@pather.js:319, Skill.cast@misc.js:337, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:65
+[2019/07/27 07:57:49] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 09:15:23] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 11:04:47] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 13:13:11] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 13:44:08] <goodNight> Error in Countess (prototypes.js line 255): Unit.sell: Must be used in shops.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:10, Town.doChores@town.js:80, Town.identify@town.js:634, Unit.prototype.sell@prototypes.js:255
+[2019/07/27 14:48:33] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/07/27 16:35:16] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/07/28 02:29:00] <goodNight> Error in ClearAnyArea (default.dbj line 65): too much recursion
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:36, Misc.openChestsInArea@misc.js:932, Pather.moveToUnit@pather.js:533, Pather.moveTo@pather.js:232, Pather.teleportTo@pather.js:319, Skill.cast@misc.js:337, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:65
+[2019/07/28 03:53:09] <goodNight> Error in Nihlathak (attack.js line 298): Failed to kill 尼拉塞克
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Nihlathak@nihlathak.js:24, Attack.kill@attack.js:298
+[2019/08/01 09:09:24] <goodNight> Error in Duriel (duriel.js line 55): Failed to move to Tal Rasha's Tomb
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:55
+[2019/08/01 09:09:32] <goodNight> Error in Mephisto (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/08/01 09:09:39] <goodNight> Error in Pindleskin (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/08/02 01:48:53] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/08/04 10:25:04] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/08/04 17:55:05] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/08/06 01:54:58] <goodNight> Error in Eldritch (default.dbj line 65): too much recursion
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:36, Misc.openChestsInArea@misc.js:932, Pather.moveToUnit@pather.js:533, Pather.moveTo@pather.js:232, Pather.teleportTo@pather.js:329, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:65
+[2019/08/07 08:48:46] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/08/07 17:50:24] <goodNight> Error in Duriel (duriel.js line 59): Failed to move to Orifice
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Duriel@duriel.js:59
+[2019/08/09 04:36:45] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/08/10 11:28:43] <goodNight> Error in ClearAnyArea (prototypes.js line 255): Unit.sell: Must be used in shops.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, ClearAnyArea@clearanyarea.js:14, Attack.clearLevel@attack.js:908, Pather.moveTo@pather.js:237, NodeAction.go@pather.js:15, NodeAction.killMonsters@pather.js:48, Attack.clear@attack.js:554, Attack.openChests@attack.js:1040, Pickit.pickItems@pickit.js:138, Town.visitTown@town.js:2194, Town.doChores@town.js:80, Town.identify@town.js:634, Unit.prototype.sell@prototypes.js:255
+[2019/08/10 22:00:39] <goodNight> Error in ClearAnyArea (default.dbj line 65): too much recursion
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:36, Misc.openChestsInArea@misc.js:932, Pather.moveToUnit@pather.js:533, Pather.moveTo@pather.js:232, Pather.teleportTo@pather.js:319, Skill.cast@misc.js:337, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:65
+[2019/08/11 01:14:15] <goodNight> Error in Eldritch (prototypes.js line 255): Unit.sell: Must be used in shops.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Eldritch@eldritch.js:10, Town.doChores@town.js:80, Town.identify@town.js:634, Unit.prototype.sell@prototypes.js:255
+[2019/08/12 00:28:33] <goodNight> Error in Travincal (default.dbj line 65): too much recursion
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:33, Attack.clear@attack.js:485, ClassAttack.doAttack@sorceress.js:113, ClassAttack.doCast@sorceress.js:166, Skill.cast@misc.js:355, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:65
+[2019/08/12 03:04:15] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/08/12 03:13:54] <goodNight> Error in TownChicken.js (prototypes.js line 190): Unit.buy: Must be used in shops.
+Stack: main@townchicken.js:94, Town.visitTown@town.js:2194, Town.doChores@town.js:88, Town.buyPotions@town.js:330, Unit.prototype.buy@prototypes.js:190
+[2019/08/12 04:04:16] <goodNight> Error in Countess (countess.js line 15): Failed to move to Countess
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:15
+[2019/08/12 04:04:24] <goodNight> Error in Andariel (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/08/12 04:04:31] <goodNight> Error in Duriel (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/08/12 04:04:38] <goodNight> Error in Travincal (town.js line 2150): Town.goToTown: Failed to make TP
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:123, Town.goToTown@town.js:2150
+[2019/08/12 15:48:23] <goodNight> Error in ClearAnyArea (default.dbj line 65): too much recursion
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Countess@countess.js:36, Misc.openChestsInArea@misc.js:932, Pather.moveToUnit@pather.js:533, Pather.moveTo@pather.js:232, Pather.teleportTo@pather.js:319, Skill.cast@misc.js:337, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:66, @default.dbj:65
+[2019/08/12 20:02:27] <goodNight> Error in ClearAnyArea (pather.js line 1020): useWaypoint: Failed to use waypoint
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, ClearAnyArea@clearanyarea.js:13, Pather.journeyTo@pather.js:1402, useWaypoint@pather.js:1020
+[2019/08/15 01:44:14] <goodNight> Error in Diablo (diablo.js line 221): Failed to open de Seis seal.
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Diablo@diablo.js:469, @diablo.js:221
+[2019/08/15 23:51:43] <goodNight> Error in Diablo (diablo.js line 326): Diablo not found
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Diablo@diablo.js:489, @diablo.js:326
+[2019/08/16 16:38:35] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 16:54:42] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 17:11:15] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 17:28:42] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 17:46:59] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 18:04:09] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 18:21:15] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 18:39:30] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 18:52:56] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 19:09:55] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 19:25:42] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 19:42:09] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 19:59:56] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 20:17:09] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 20:33:27] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 20:49:58] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 21:08:11] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179
+[2019/08/16 21:25:05] <goodNight> Error in Cows (cows.js line 179): Failed to cube leg and tome
+Stack: main@default.dbj:201, Loader.init@loader.js:17, Loader.loadScripts@loader.js:135, Cows@cows.js:228, @cows.js:179

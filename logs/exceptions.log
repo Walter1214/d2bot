@@ -1,0 +1,9 @@
+2019/8/16 下午 04:01
+System.InvalidOperationException: 沒有和此物件相關聯的處理序。
+   於 System.Diagnostics.Process.EnsureState(State state)
+   於 System.Diagnostics.Process.get_HasExited()
+   於 D2Bot.D2Profile.StopClient()
+   於 D2Bot.D2Profile.StopThread()
+   於 D2Bot.Main.HandleAction(D2Profile d2p, ProfileAction pa)
+   於 D2Bot.Main.<>c__DisplayClass57_0.<WorkThread>b__0()
+
